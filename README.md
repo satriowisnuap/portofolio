@@ -1,40 +1,79 @@
-# Ryan - Next JS Portfolio Template
-#### Preview
+# Satrio Portfolio Website
 
- - [Demo](https://themewagon.github.io/ryan/)
+Personal portfolio website built with **Next.js** to showcase my projects, skills, and interests in **networking and web development**.
 
-#### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/ryan/)
+## About This Project
+
+This website is my personal portfolio where I share:
+
+* Projects I have built
+* Technologies and tools I use
+* My skills in networking and web development
+* Contact information
+
+Although I study Informatics Engineering, my main interest is in **computer networking**, while also developing skills in **web application development**.
+
+## Tech Stack
+
+This project is built using:
+
+* **Next.js**
+* **React**
+* **Tailwind CSS**
+* **TypeScript / JavaScript**
+* **Vercel** (for deployment)
+
+## Features
+
+* Responsive modern portfolio design
+* Project showcase section
+* Skills section
+* Contact information
+* Fast performance using Next.js
 
 ## Getting Started
 
-1. Clone Repository
+Clone the repository:
+
+```bash
+git clone https://github.com/username/portfolio.git
 ```
-git clone https://github.com/themewagon/ryan.git
+
+Install dependencies:
+
+```bash
+npm install
 ```
-2. Install Dependencies
-```
-npm i
-```
-3. Run the development server:
+
+Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-## Author 
+Open in browser:
+
 ```
-Design and code is completely written by codescandy and development team. 
+http://localhost:3000
 ```
+
+## Deployment
+
+This project can be easily deployed using **Vercel**.
+
+Steps:
+
+1. Push this project to GitHub
+2. Login to https://vercel.com
+3. Import the repository
+4. Deploy
+
+## Author
+
+**Satrio Wisnu Adi Pratama**
+
+Networking Enthusiast | Web Developer
 
 ## License
 
- - Design and Code is Copyright &copy; <a href="url" target="_blank">codescandy</a>
- - Licensed cover under [MIT]
- - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
+This project is open source and available under the MIT License.
